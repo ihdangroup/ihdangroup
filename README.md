@@ -1,4 +1,8 @@
+<div align="center">
+  
 ### Hi there 👋, I'm Ikhdan Maghfuron
+<p>I'm student at Peradaban University, now I'm taking the msib independent study class at Hacktiv8, I'm taking the React & React Native for Front-End Developer class</p>
+</div>
 
 
 <!--
